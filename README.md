@@ -10,7 +10,7 @@ In this notebook, code fragments from StackOverflow and Kaggle can be found.
 The notebook "13. Neural Style Transfer" by Christoph Würsch served mainly as a template.
 
 
-We did a lot more than described here, so check out our [Jupyter Notebook](https://github.com/alkolhar/M_ANN/blob/main/MiniProject-Cliff_Walking.ipynb)
+We did a lot more than described here, so check out our [Jupyter Notebook](https://github.com/alkolhar/M_ANN/blob/2595306487930711596f89d223bc96ed60b6209c/ANN_Koller_Schreiber_final.ipynb)
 
 ## VGG 19
 We load a VGG19 model for feature extraction and define below which layers we want to use.
